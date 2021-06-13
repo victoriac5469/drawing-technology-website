@@ -6,9 +6,19 @@ h1 {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     font-style: italic;
-    font-size:50px;
 }
 
 p{
     font-family: 'Ubuntu', sans-serif;
+    text-align:center;
+}
+
+.card{
+    background-color: #D4DEED;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);;
+}
+
+.bigimg {
+    display:flex;
+    justify-content:center;
 }
