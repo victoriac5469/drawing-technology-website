@@ -1,7 +1,3 @@
-*{
-    padding:0;
-    margin:0;
-}
 html{
     font-size: 10px;
     font-family: 'Ubuntu', sans-serif;
@@ -191,4 +187,29 @@ a{
 #future .col-right p{
     margin-bottom:20px;
     font-size:1.8rem;
+}
+
+@media (min-width:768px){
+    .cta{
+        font-size:2.5rem;
+        padding:20px 60px;
+    }
+    h1 .overview-title{
+        font-size:7rem;
+    }
+    #title h1{
+        font-size:7rem;
+    }
+    #tech .tech-container{
+        height:400px;
+        margin:0;
+        width:100%;
+        border-radius:0;
+    }
+    #tech .tech-card .all-tech{
+        height:100%;
+    }
+    #tech .tech-card .tech-img{
+        height:100%;
+    }
 }
