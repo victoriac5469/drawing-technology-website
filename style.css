@@ -83,3 +83,20 @@ a{
     font-weight:200;
     letter-spacing:.01rem;
 }
+
+#overview .motivation h2{
+    font-size:4rem;
+    font-weight:300;
+    color:black;
+    margin-bottom:10px;
+    text-transform:uppercase;
+    letter-spacing:.2rem;
+    text-align:center;
+}
+#overview .motivation p{
+    font-size:1.4rem;
+    margin-top:5px;
+    line-height:2.5rem;
+    font-weight:200;
+    letter-spacing:.01rem;
+}
